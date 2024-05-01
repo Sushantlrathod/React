@@ -60,3 +60,5 @@ root.render(element2);
  // all inside root will be replaced by element2 rest all are as it is. 
 
  //react is a library not a framework
+
+  //package.json is configration to   for npm   

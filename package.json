@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "the react practice with the help of akshay saini",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushantlrathod/React.git"
+  },
+  "author": "Sushant Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushantlrathod/React/issues"
+  },
+  "homepage": "https://github.com/Sushantlrathod/React#readme"
+}
