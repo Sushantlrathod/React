@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from 'react-dom/client';
+
 //crate a element and render  it in the DOM tree with root element
 // let heading1 = React.createElement("h1", {}, "Welcome To React Sushant!");
 // let root1 = ReactDOM.createRoot(document.getElementById("root"));

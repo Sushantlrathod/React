@@ -2,7 +2,6 @@
   "name": "episode-1",
   "version": "1.0.0",
   "description": "learning react with akshay saini bhiya",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +16,14 @@
   },
   "homepage": "https://github.com/Sushantlrathod/React#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
-  }
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserlist": [
+    " last 2  versions"
+  ]
 }

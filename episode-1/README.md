@@ -28,4 +28,7 @@ In summary, cookies and sessions are both used to maintain state in web applicat
 13. How does a CDN work with CORS?
 14. Can you explain the difference between "public" and "private"?  
 15. Why do we need to use  HTTPS instead of HTTP in web development? 
+
+
 <!-- git clean -xdi to remove the node models -->
+<!-- dependency is dependent on other dependency it is called transit dependency -->
