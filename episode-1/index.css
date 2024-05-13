@@ -1,4 +1,4 @@
-.color {
+/* .color {
   color: brown;
 }
 .p-color,
@@ -10,4 +10,53 @@
 }
 .second-child {
   background-color: brown;
+} */
+
+.header-layout {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+.logo-container > img {
+  width: 200px;
+}
+.logo-container {
+  flex-grow: 1;
+}
+.nav-item {
+  flex-grow: 1;
+}
+.nav-item > ul {
+  display: flex;
+  margin: 5%;
+}
+.nav-item > ul > li {
+  font-size: 20px;
+  margin: 0px 3%;
+  padding: 2px;
+  list-style: none;
+  word-wrap: normal;
+}
+.body {
+  display: flex;
+  margin: 1%;
+  flex-wrap: wrap;
+}
+.food-card {
+  width: 200px;
+  height: 300px;
+  background-color: #f0f0f0;
+  margin: 1%;
+  padding: 2px;
+}
+.food-card > img {
+  width: 100%;
+}
+.food-card-order-sum {
+  display: flex;
+  margin: 0px 1%;
+}
+.food-card-order-sum > span {
+  margin: 2%;
+  color: rgb(9, 131, 80);
 }
