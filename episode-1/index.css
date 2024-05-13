@@ -1,0 +1,13 @@
+.color {
+  color: brown;
+}
+.p-color,
+.div-background-color {
+  background-color: bisque;
+}
+.p2-color {
+  background-color: cornflowerblue;
+}
+.second-child {
+  background-color: brown;
+}

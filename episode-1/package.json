@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "learning react with akshay saini bhiya",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
